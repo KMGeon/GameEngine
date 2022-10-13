@@ -9,7 +9,8 @@ C# Unity script
 
 <h1>Rocket</h1>
 <img width="1111" alt="image" src="https://user-images.githubusercontent.com/103854287/195649550-a7c3f43e-380a-4753-abf4-5afdb3662db8.png">
-# 목표 : 로켓을 이용하여 도착지에 가서 다음 스테이지로 넘어가기 **<br/>
+**목표 : 로켓을 이용하여 도착지에 가서 다음 스테이지로 넘어가기 <br/>
+
 -Rigidbody를 이용하여 객체의 물리엔진의 영향을 받도록 하여 현실감 있게 동작<br/>
 -Transform.Rotate를 이용하여 회전<br/>
 -중력은 달에 간 것처럼 중력 값을 낮춤<br/>
