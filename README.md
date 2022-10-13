@@ -9,4 +9,4 @@ C# Unity script
 
 
 <h1>Rocket</h1>
-![image](https://user-images.githubusercontent.com/103854287/193070452-f04ac500-02e4-42c5-93ce-f762d78420fc.png)
+<img width="1111" alt="image" src="https://user-images.githubusercontent.com/103854287/195649550-a7c3f43e-380a-4753-abf4-5afdb3662db8.png">
