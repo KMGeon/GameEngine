@@ -2,7 +2,7 @@
 
 C# Unity script
 <h1>Airplane</h1>
-<img width="663" alt="image" src="https://user-images.githubusercontent.com/103854287/195650827-b4ec610b-f887-4d13-8598-d71f2628541d.png">
+<img width="572" alt="image" src="https://user-images.githubusercontent.com/103854287/197001950-a8b88835-7c8f-40e7-95fc-b4d89fffb5ba.png">
 
 
 
