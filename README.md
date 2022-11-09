@@ -3,8 +3,7 @@
 C# Unity script
 
 <h1>Tower Defence</h1>
-![TowerDefence 2022-11-09 오후 7_47_51](https://user-images.githubusercontent.com/103854287/200810709-83a1c98d-0065-45bf-a3d1-cfa8ae25b95d.png)
-
+<img width="862" alt="image" src="https://user-images.githubusercontent.com/103854287/200810899-aa48a2bb-5a57-4474-b8c3-d2aab6b719b4.png">
 
 
 <h1>Airplane</h1>
